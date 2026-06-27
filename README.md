@@ -3,7 +3,8 @@
 An action-packed, retro-inspired 3D endless runner built entirely in the browser using **Three.js** and the **Web Audio API**. Dodge incoming obstacles, shoot down waves of biological alien monsters, and test your reflexes as the speed progressively accelerates!
 
 ## 🚀 Play the Game
-[matrix-runner-3d.vercel.app]
+
+Check out the live 3D game here: [Matrix Runner 3D](https://matrix-runner-3d.vercel.app)
 
 ---
 
