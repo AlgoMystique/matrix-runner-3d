@@ -6,7 +6,7 @@ An action-packed, retro-inspired 3D endless runner built entirely in the browser
 
 Check out the live 3D game here: [Matrix Runner 3D](https://matrix-runner-3d.vercel.app)
 
-![Matrix Runner 3D Screenshot](screenshot.png)
+
 
 ---
 
